@@ -16,7 +16,9 @@ YMH 219 Nesne Tabanlı Programlama dersi ek uygulama ödevi kapsamında gelişti
 
 | Metinden Sese (TTS) | Sesten Metne (STT) |
 
-|---|---|
+|    <img width="619" height="515" alt="Metinden_Ses" src="https://github.com/user-attachments/assets/6678ca63-9a4b-4a29-b5c0-d59182ba5379" />
+|<img width="616" height="512" alt="Sesten_Metin" src="https://github.com/user-attachments/assets/ed207ab0-f736-4b86-ad40-a902b9172203" />
+|
 
 | !\[Metinden sese](screenshots/tts.png) | !\[Sesten metne](screenshots/stt.png) |
 
