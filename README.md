@@ -165,4 +165,3 @@ Ses işlemleri arayüzden ayrı servis sınıflarında tutulmuştur. Konuşma ta
 \- Konuşma modeli depoda bulunmaz, kurulum adımlarında belirtildiği şekilde ayrıca indirilmelidir.
 
 \- Uygulama Windows'a özeldir (x64).
-
